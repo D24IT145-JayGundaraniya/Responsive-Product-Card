@@ -10,3 +10,19 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Responsive Product Card
+
+This project demonstrates how to style React components using **TailwindCSS** while ensuring a **responsive design**. The product card displays a product's image, name, price, and description with a **modern UI**.
+
+## Features
+- ✅ **Styled with TailwindCSS** for fast and efficient styling.
+- ✅ **Responsive Design** using Flexbox & Grid layouts.
+- ✅ **Reusable Components** - Easily extendable for other products.
+
+- 1️⃣ **Clone the repository**
+```sh
+git clone https://github.com/your-username/responsive-product-card.git
+cd responsive-product-card
+npm install
+npm run dev
